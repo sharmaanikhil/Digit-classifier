@@ -8,7 +8,7 @@ The main idea behind this project was to understand how image data is processed 
 ---
 ## How to Run
 ### Step 1: Install Dependencies
-Make sure Python (3.7 or above) is installed on your system.  
+Make sure Python (3.7 or above) is installed on your system.
 From the project directory, run:
 
 ```bash
